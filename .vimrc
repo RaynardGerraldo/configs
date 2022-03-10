@@ -6,6 +6,8 @@ set shiftwidth=2
 
 set autoindent
 
+set noexpandtab
+
 set ai
 
 set number
